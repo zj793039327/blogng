@@ -1,6 +1,0 @@
-[submodule "themes/hugo-book"]
-	path = themes/hugo-book
-	url = https://github.com/alex-shpak/hugo-book
-[submodule "themes/themes/hugo-book-my"]
-	path = themes/themes/hugo-book-my
-	url = https://github.com/zj793039327/hugo-book
