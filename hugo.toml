@@ -3,7 +3,7 @@ languageCode = 'zh-CN'
 title = "一次奇遇"
 #theme = 'hugo-onyx-theme:'
 #theme = 'capsule'
-theme = 'hugo-book-my'
+theme = 'hugo-book'
 toc = true
 
 [params]

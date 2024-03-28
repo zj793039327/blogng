@@ -13,6 +13,8 @@ tags: ['tech','data']
 category: technology
 ---
 
+不成文章，一些记录
+<!--more-->
 
 # 大数据系统性能分析
 
@@ -28,7 +30,6 @@ category: technology
   * 单CPU多core
   * 单core超线程
 
-<!--more-->
 
 #### 方法
 

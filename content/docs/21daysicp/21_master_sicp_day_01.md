@@ -1,8 +1,8 @@
 ---
 title : "Day 1 构造过程抽象"
-author : ["饿白云"]
-date : 2024-02-20T10:17:00+08:00
-publishDate : 2024-02-19T00:00:00+08:00
+author : "饿白云"
+date : 2024-02-20 10:17:00
+publishDate : 2024-02-1900:00:00 
 tags : ["tech"]
 draft : false
 weight : 1
