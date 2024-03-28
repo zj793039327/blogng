@@ -3,8 +3,19 @@ languageCode = 'zh-CN'
 title = "一次奇遇"
 #theme = 'hugo-onyx-theme:'
 #theme = 'capsule'
-theme = 'hugo-book'
+theme = 'hugo-book-my'
 toc = true
 
 [params]
     # BookMenuBundle = '/menu'
+    math = true
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]

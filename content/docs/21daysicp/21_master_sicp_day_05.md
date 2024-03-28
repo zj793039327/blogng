@@ -25,4 +25,4 @@ weight = 5
 
 ## <span class="section-num">3</span> 玩法3：出参是函数的玩法 {#玩法3-出参是函数的玩法}
 
-asd
+
