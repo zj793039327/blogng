@@ -28,7 +28,7 @@ weight : 1
 好的程序应该像是设计良好的汽车，或者是核反应堆一样，具有某种模块化的设计，其中的各个部分可以独立的构造、替换、排除错误。
 
 
-## <span class="section-num">2</span> 用Lisp编程 {#用lisp编程}
+## 用Lisp编程 
 
 lisp是20世纪50年代后期发明的一种语言，主要是为了对 list 进行 processing的语言。
 称为【递归方程】，作者是John McCarthy[^fn:2]
@@ -47,7 +47,7 @@ Lisp不是刻意设计的结果，是一种实验性的，非正式的发展实�
 lisp 主要的特点，在于将『数据』和『程序』进行了几乎无差别的对待，在数据处理方面，效果更好。
 
 
-## <span class="section-num">3</span> 程序设计的基本元素 {#程序设计的基本元素}
+## 程序设计的基本元素 
 
 任何一门强力的程序设计语言，都需要考虑以下的一些概念
 
@@ -58,7 +58,7 @@ lisp 主要的特点，在于将『数据』和『程序』进行了几乎无差
 > 简明扼要，这其实就是语言的概念，少一个都不行。因此，在lisp中，其实只有5个元素
 
 
-### <span class="section-num">3.1</span> Expressions 表达式 {#expressions-表达式}
+### Expressions 表达式 
 
 学习语言最好的方式，就是有一个运行环境，在命令行里面敲代码，一边敲代码，一边执行。
 
@@ -84,7 +84,7 @@ lisp 主要的特点，在于将『数据』和『程序』进行了几乎无差
 但是也有一些缺点，比如不格式化的化，很难看明白
 
 
-### <span class="section-num">3.2</span> Naming and the Environment 命名和环境 <span class="tag"><span class="lispbase">lispbase</span></span> {#naming-and-the-environment-命名和环境}
+###  Naming and the Environment 命名和环境 
 
 **命名** ：将一段代码，通过 `define` 关键字，创建别名，可以随意引用
 
@@ -96,7 +96,7 @@ lisp 主要的特点，在于将『数据』和『程序』进行了几乎无差
 ```
 
 
-### <span class="section-num">3.3</span> Evaluation Combinations 组合式求值 {#evaluation-combinations-组合式求值}
+###  Evaluation Combinations 组合式求值 
 
 一种分而治之的思想，整体程序的运行，其实就是两步
 
@@ -120,7 +120,7 @@ lisp 主要的特点，在于将『数据』和『程序』进行了几乎无差
 这属于特殊的规则（special form）
 
 
-### <span class="section-num">3.4</span> Compound Procedures 复合过程 {#compound-procedures-复合过程}
+###  Compound Procedures 复合过程 
 
 lisp中的元素到现在，总体介绍分为以下的
 
@@ -149,7 +149,7 @@ lisp中的元素到现在，总体介绍分为以下的
 光看过程，其实无法猜测里面是什么东西
 
 
-### <span class="section-num">3.5</span> The Substitution Model for Procedure Application 过程的代换模型 {#the-substitution-model-for-procedure-application-过程的代换模型}
+###  The Substitution Model for Procedure Application 过程的代换模型 
 
 代换模型（substitution model）简言之，就是在过程执行的时候，
 系统会将抽象的名字换成原始的过程，并且运行。
@@ -166,7 +166,7 @@ lisp中的元素到现在，总体介绍分为以下的
 > 现在看了目录之后，发现总共就只有5章，突然有点慌
 
 
-#### <span class="section-num">3.5.1</span> Applicative order versus normal order 应用序 和正则序 {#applicative-order-versus-normal-order-应用序-和正则序}
+#### Applicative order versus normal order 应用序 和正则序 
 
 比如计算下面的表达式
 
@@ -201,7 +201,7 @@ lisp中的元素到现在，总体介绍分为以下的
 ```
 
 
-### <span class="section-num">3.6</span> Conditional Expressions and Predicates <span class="tag"><span class="lispbase">lispbase</span></span> {#conditional-expressions-and-predicates}
+###  Conditional Expressions and Predicates
 
 这是介绍第二个 special form
 就是控制流：if

@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "531202675539a7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bbf787a0fe712f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5de2755b9a5e4095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/docs/healself/neijing/normal_ask_02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36541e2ce183d2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "50432c62c7501aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78d6266ad28beb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcb37c6343223675",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed0dc4c2f8237317",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "987176e01b1befdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3c7e824bbfc6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ead10b1843929a8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/docs/healself/neijing/normal_ask_02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b89b63a5ea53216",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/docs/healself/neijing/normal_ask_02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d552cdfd5f57ec60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f02a7312da307d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/docs/healself/neijing/normal_ask_02.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5de2755b9a5e4095",
+  "lastOpenFiles": [
+    "content/docs/healself/wushu/xingyiquan_01.md",
+    "content/docs/healself/neijing/normal_ask_01.md",
+    "content/docs/healself/neijing/normal_ask_02.md"
+  ]
+}
