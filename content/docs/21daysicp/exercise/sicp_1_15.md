@@ -1,3 +1,13 @@
+---
+title : "SICP练习1-15"
+author : ""
+date : 2024-03-12 10:17:00
+tags : ["tech"]
+draft : false
+weight : 1
+params:
+   math: true
+---
 ## Exercise 1.15 
 
 The sine of an angle (specified in radians) can be computed by making use of the approximation $sinx≈x$  if x is sufficiently small, and the trigonometric identity
@@ -67,12 +77,16 @@ https://sicp-solutions.net/post/sicp-solution-exercise-1-15/
 $$
 \frac{a}{3^n}<0.1
 $$
+
 因为要不断的 循环 / 3，接下来计算下n的值，则就是代表循环的次数
+
 $$
-log(\frac{a}{0.1}) <log(3^n) \\
-log(a)-log(0.1)<nlog(3) \\
-\frac{log(a)-log(0.1)}{log(3)} <n \\
+log(\frac{a}{0.1}) <log(3^n) \\\\
+log(a)-log(0.1)<nlog(3) \\\\
+\frac{log(a)-log(0.1)}{log(3)} <n
 $$
+
+以上
 
 ### 空间复杂度（growth in space）
 

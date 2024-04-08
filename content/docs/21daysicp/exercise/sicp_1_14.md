@@ -1,3 +1,14 @@
+---
+title : "SICP练习1-14"
+author : "饿白云"
+date : 2024-02-20 10:17:00
+tags : ["tech"]
+draft : false
+weight : 1
+params:
+   math: true
+---
+
 # SICP 练习1-14
 
 ## 题目
