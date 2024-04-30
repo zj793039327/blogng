@@ -5,7 +5,7 @@ layout: post
 title:  "从《real》想到的"
 date:  2017-07-23 22:01:20
 categories: life
-tags: reading life
+tags: reading,life
 
 
 ---
