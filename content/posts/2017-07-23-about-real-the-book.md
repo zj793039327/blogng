@@ -3,8 +3,9 @@ published: true
 author: yang
 layout: post
 title:  "从《real》想到的"
-date:   2017-07-23 22:01:20
+date:  2017-07-23 22:01:20
 categories: life
+tags: reading life
 
 
 ---
@@ -27,7 +28,9 @@ categories: life
 
 ### 野宫朋美
 
-![刚退学的野宫](http://upload-images.jianshu.io/upload_images/1506641-6bbc52efd15faf39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
+![刚退学的野宫](http://img.skydrift.cn/1714479915.png)
+
+
 
 他是一个诸事不顺的高中辍学生，唯一的爱好就是打篮球，但却在球队格格不入，受人排挤，最终以暴力离队。
 
@@ -50,7 +53,9 @@ categories: life
 
 ### 户川清春
 
-![身着球衣的户川](http://upload-images.jianshu.io/upload_images/1506641-5269b5ead86e6cae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
+![身着球衣的户川](http://img.skydrift.cn/1714479941.png)
+
+
 
 他从小失去坚强的母亲，留下了的父亲是个所有事情都靠妻子的老好人。父亲一心想要他成为一名钢琴家，但是到了初中，户川背弃了父亲的期待，倔强的爱上了田径，同时发现了自己独特的天赋。
 
@@ -68,13 +73,14 @@ categories: life
 
 这是户川在球场之上的EGO。他随时随刻都很着急，因为病魔随时可能入侵，每年夏天的体检结束，当医生宣布没有癌症转移的时候，他会兴奋的想，又能多活一年。
 
-![19岁的户川](http://upload-images.jianshu.io/upload_images/1506641-c600504556d32e03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
+![19岁的户川](http://img.skydrift.cn/1714479967.png)
 
 然而生活也要继续，作为一名残疾人，这是一个接受自己，正视自己，改变自己的故事。要经历怎样的苦痛，才会成为一个坚强的人？
 
 ### 高桥久信
 
-![高中时代的高桥](http://upload-images.jianshu.io/upload_images/1506641-628d4bc8aa57919c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
+![高中时代的高桥](http://img.skydrift.cn/1714480002.png)
+
 
 这真是一个复杂的人物，他就是野宫那个篮球队的队长。他聪明，任何事情，只要稍微一用功，就会做的比其他人好。他也纨绔，善于使用冷暴力欺负看不对的眼的人，他常常把人分为A-E，随着自己的偏好打分。
 
@@ -90,10 +96,7 @@ categories: life
 
 他改变了，从复健的路上，从认识了同病相怜的白领以及摔跤手以后。
 
-
-![复健中的高桥](http://upload-images.jianshu.io/upload_images/1506641-dc5b650d1d10d821.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
-
-![复健中的高桥](http://upload-images.jianshu.io/upload_images/1506641-ced8b950ddeb8c42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
+![复健中的高桥](http://img.skydrift.cn/1714480022.png)
 
 
 > 5年后，或者10年后，回想起来的时候，会觉得是从那天起，一切都改变了。今天正是这一天。

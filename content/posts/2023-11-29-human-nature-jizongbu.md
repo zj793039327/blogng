@@ -3,7 +3,8 @@ author: j56
 layout: post
 title: 《大宅门》人物群像——季宗布
 date: 2023-11-29 17:09:22
-categories: life,reading
+categories: life
+tags: life,reading
 ---
 我很喜欢的一个人物：大宅门中的季宗布
 <!--more-->
