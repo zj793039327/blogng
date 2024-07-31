@@ -1,5 +1,5 @@
 ---
-title:廖厚泽——古脉法
+title: 廖厚泽——古脉法
 author: zhjing
 date: 2024-6-21 08:47:29
 tags:
