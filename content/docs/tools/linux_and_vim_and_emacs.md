@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "常用链接"
+title: 一些常用命令
 ---
 
 ## Linux命令详解
