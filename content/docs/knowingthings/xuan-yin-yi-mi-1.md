@@ -5,19 +5,21 @@ date : 2024-8-16 23:19:29
 tags : ["learn"]
 draft : false
 weight : 1
+categories: yi
 bookFlatSection: true
 slug: beautiful_things/xuan-yin-yi-mi-1
 ---
 
-![](http://img.skydrift.cn/1723439988.png?imageMogr2/thumbnail/!70p)
 
 三生有幸，白云观三申道长，在24年7月21日（周日）开始，在“北京白云观白云讲堂传统文化公益推广课” 上，出讲《玄隐遗密》系列。
 
 这是第一节课的基本概要，文字不比语音，加之我后学晚辈，记录中多有错字，此处仅记。
+<!--more-->
 
 原文地址：
 https://mp.weixin.qq.com/s/Z77tJoxrJZYIX-LorgeVAA
 
+![](http://img.skydrift.cn/1723439988.png?imageMogr2/thumbnail/!70p)
 
 # 《玄隐遗密》1
 听说你们想听讲玄隐遗密，其实这是个很大的命题，可不是个小板块。

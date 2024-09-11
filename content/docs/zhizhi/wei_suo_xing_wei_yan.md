@@ -9,6 +9,10 @@ bookFlatSection: true
 slug: zhongyi/wei_suo_xing_wei_yan
 ---
 
+研究下萎缩性胃炎
+
+<!--more-->
+
 ## 现代医学视角
 
 本词条由[百度健康医典-萎缩性胃炎 ](https://expert.baidu.com/med/template/#/pages/speTopic/dict/newhome/index?contentid=ydxx_8131150640925376286&sf_ch=ch_baike)提供内容 。

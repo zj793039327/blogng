@@ -16,6 +16,7 @@ slug: beautiful_things/fuling
 『赤通水道，白化痰涎』，这句话最近一直在耳边回响，就像之前回响的『甘温除大热』一样，也许是哪里听来就一直有个念想。
 
 这句话说的就是茯苓的药性，朱茯苓主通水道，利肾，白茯苓主要是祛痰。
+<!--more-->
 
 在明代医家[龚廷贤](https://baike.baidu.com/item/龚廷贤/9975930?fromModule=lemma_inlink)所《[药性歌括四百味](https://baike.baidu.com/item/%E8%8D%AF%E6%80%A7%E6%AD%8C%E6%8B%AC%E5%9B%9B%E7%99%BE%E5%91%B3/2268228?fromModule=lemma_inlink)》中，第4位药就是茯苓：
 

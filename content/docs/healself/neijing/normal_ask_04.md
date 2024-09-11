@@ -8,6 +8,9 @@ tags:
 draft: false
 weight: 4
 ---
+
+<!--more-->
+
 https://ctext.org/huangdi-neijing/jin-gui-zhen-yan-lun/zh
 ## 原文
 
