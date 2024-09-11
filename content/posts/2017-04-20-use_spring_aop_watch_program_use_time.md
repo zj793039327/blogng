@@ -7,10 +7,10 @@ postid: 205
 slug: 205
 nicename: use_spring_aop_watch_program_use_time
 attachments: $ATTACHMENTS
-posttype: post
-poststatus: publish 
-tags: ['java','tech']
-category: technology
+layout: post
+tags:
+  - java
+categories: tech
 ---
 
 使用spring提供的aop功能，我们可以很方便的实现动态代理的功能。在使用上，spring提供了两种不同的实现，分别是Spring AOP 和 AspectJ。

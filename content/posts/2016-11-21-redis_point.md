@@ -1,4 +1,4 @@
---- 
+---
 title: redis知识点
 date: 2016-11-21 17:57:18
 modified: 2016-11-21 17:57:18
@@ -7,10 +7,10 @@ postid: 192
 slug: 192
 nicename: redis_point
 attachments: $ATTACHMENTS
-posttype: post
+layout: post
 poststatus: publish
-tags: ['tech','redis']
-category: technology
+tags: [redis']
+categories: tech
 ---
 
 主要整理一些redis的知识点，方便自己回顾。

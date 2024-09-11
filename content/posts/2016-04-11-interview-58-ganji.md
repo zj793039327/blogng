@@ -6,7 +6,7 @@ author: jojoster
 postid: 158
 slug: 158
 nicename: 2016-interview-58-ganji
-tags: ['tech','java']
+tags: ['java']
 category: interview
 ---
 

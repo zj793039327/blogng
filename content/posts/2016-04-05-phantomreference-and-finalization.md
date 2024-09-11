@@ -9,9 +9,8 @@ linktitle: phantomreference and finalization
 attachments: $ATTACHMENTS
 posttype: post
 poststatus: publish
-categories: translate
+categories: tech
 tags: ['译文']
-category: java
 ---
 
 本文翻译至：[PhantomReference and Finalization][1]

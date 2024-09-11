@@ -2,12 +2,12 @@
 published: true
 author: yang
 layout: post
-title:  "从《real》想到的"
-date:  2017-07-23 22:01:20
-categories: life
-tags: reading,life
-
-
+title: 从《real》想到的
+date: 2017-07-23 22:01:20
+categories: 思绪
+tags:
+  - reading
+  - life
 ---
 
 知道《灌篮高手》（SlamDunk）这部作品的人，大多知道它的作者井上雄彦。井上是我非常欣赏的漫画家之一。这部《Real》是他比较后期的作品，中文翻译为《命运强手》。这部作品断断续续从90年代开始连载，到现在只有短短的不到100话。《Real》讲的也是篮球，不过是轮椅篮球。

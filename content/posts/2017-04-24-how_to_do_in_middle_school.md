@@ -9,8 +9,8 @@ nicename: how_to_do_in_middle_school
 attachments: $ATTACHMENTS
 posttype: post
 poststatus: publish
-tags: ['life'] 
-category: life
+tags: 
+categories: 思绪
 ---
 
 毕业已10年，但是高中的岁月仿佛昨日，雪天的打闹，同桌的微笑，青春的烦恼；英语的周报，黄冈的卷子，海淀的大纲。

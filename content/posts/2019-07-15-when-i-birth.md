@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "hello world"
-categories: nothing
-tags: readme demo markdown
+categories: other
+tags: 
+- readme 
+- demo
+- markdown
 author: j56
 comments: false # true 则开启评论
 mathjax: true # true 则开启加载数学公式

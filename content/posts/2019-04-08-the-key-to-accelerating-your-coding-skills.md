@@ -4,7 +4,9 @@ author: j56
 layout: post
 title:  "The Key To Accelerating Your Coding Skills(翻译)"
 date: 2019-04-08 12:23:11
-categories: translate
+categories: tech
+tags:
+  - 译文
 ---
 
 本文主要翻译 Ken Mazaika的博文-[The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)。

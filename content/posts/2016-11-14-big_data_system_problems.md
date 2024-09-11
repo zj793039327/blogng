@@ -1,4 +1,4 @@
---- 
+---
 title: 大数据系统性能分析 
 date: 2016-11-14 16:17:53
 modified: 2016-11-14 16:17:53
@@ -9,8 +9,8 @@ nicename: big_data_system_problems
 attachments: $ATTACHMENTS
 posttype: post
 poststatus: publish 
-tags: ['tech','data']
-category: technology
+tags: ['data']
+category: tech
 ---
 
 不成文章，一些记录

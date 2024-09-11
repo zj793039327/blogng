@@ -10,7 +10,7 @@ attachments: $ATTACHMENTS
 posttype: post
 poststatus: publish
 tags: ['life']
-category: life 
+categories: 思绪
 ---
 
 《三体》和大刘的科幻

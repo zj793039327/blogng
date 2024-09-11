@@ -5,6 +5,7 @@ date: 2024-09-10 10:00:00
 author: jojoster
 tags:
   - go
+  - 译文
 categories: tech
 ---
 

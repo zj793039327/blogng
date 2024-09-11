@@ -1,4 +1,3 @@
-
 ---
 title: Java线程安全-《深入了解Java虚拟机》读书笔记
 date: 2016-11-23 15:25:30
@@ -10,8 +9,8 @@ nicename: java-synchronized-summary-after-read-USDERSTANDING_THE_JVM
 attachments: $ATTACHMENTS
 posttype: post
 poststatus: published
-tags: ['java','tech','读书笔记']
-category: technology
+categories: tech
+tags: ['java','读书笔记']
 ---
 
 《深入了解Java虚拟机》读书笔记

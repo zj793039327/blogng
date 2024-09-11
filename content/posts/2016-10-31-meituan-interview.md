@@ -8,7 +8,7 @@ slug: 160
 nicename: 2016-meituan-interview
 posttype: post
 poststatus: publish
-tags: ['tech','life','面试']
+tags: ['life','面试']
 category: interview 
 ---
 
