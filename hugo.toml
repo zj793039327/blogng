@@ -1,6 +1,6 @@
 baseURL = 'https://blog.skydrift.cn/'
 languageCode = 'zh'
-title = "J安在歧路"
+title = "给时光以生命"
 #theme = 'hugo-onyx-theme:'
 #theme = 'capsule'
 theme = 'hugo-book'
